@@ -21,22 +21,22 @@ GDB連結:https://onlinegdb.com/GEQhwBC3a
 GDB連結:https://onlinegdb.com/TtWxiD_rn
 
 21. 主函式輸入 輸入 a 小時 b 分， 其中自定義一函式，時間換算，輸出  x 分
-GDB連結:
+GDB連結:https://onlinegdb.com/aknfpO4AJ
 
 22. 主函式輸入 輸入 a ，其中自定義一函式，時間換算，輸出  b 小時 c 分 
-GDB連結:
+GDB連結:https://onlinegdb.com/Eg1qnFcuC
 
 23. 主函式輸入 輸入 a degree C ，其中自定義一函式，溫度轉換，輸出  b degree F
-GDB連結:
+GDB連結:https://onlinegdb.com/uTjwCEdjP
 
 24. 編寫程式，其中自定義一函式，用來判斷一個整數是否為質數，主函式輸入一個數，輸出是否為質數。
-GDB連結:
+GDB連結:https://onlinegdb.com/aMpQAGEyu
 
 25. 編寫程式，主函式輸入一個數，其中自定義一函式，用來判斷數字是否為因數，如果是，逐一輸出。
-GDB連結:
+GDB連結:https://onlinegdb.com/pP4NrLwav	
 
 26．編寫兩個函式分別求兩個整數的最小公倍數和最大公約數，用主函式呼叫這兩個函式並輸出結果。兩個整數由鍵盤輸入。
-GDB連結:
+GDB連結:https://onlinegdb.com/RKcgDQPwzD
 
 27、猜數遊戲。系統隨機產生一個整數，通過鍵盤輸入資料猜數，猜對為止，並要求統計猜的次數。
 
@@ -45,7 +45,7 @@ GDB連結:  https://onlinegdb.com/7e6gGAR9J
 28、主函式輸入 2 個數，其中自定義一函式，產生介於這兩個數的亂數。
 
 	注：rand()函式可以產生0～32767間的正整數，程式中需包含stdlib.h。
- GDB連結:  
+ GDB連結:  https://onlinegdb.com/c49UVQU3T
 
 https://zerojudge.tw/ShowProblem?problemid=a020
 GDB連結:  
