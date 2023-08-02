@@ -15,10 +15,10 @@ https://onlinegdb.com/aA4lf3Nqr
 GDB連結:https://onlinegdb.com/QbIEZg6mK
 
 19. 編寫程式，其中自定義一函式，作民國與西元的換算
-GDB連結:
+GDB連結:https://onlinegdb.com/GEQhwBC3a
 
 20. 主函式輸入 高與寬，編寫程式，其中自定義一函式，算矩形面積
-GDB連結:
+GDB連結:https://onlinegdb.com/TtWxiD_rn
 
 21. 主函式輸入 輸入 a 小時 b 分， 其中自定義一函式，時間換算，輸出  x 分
 GDB連結:
